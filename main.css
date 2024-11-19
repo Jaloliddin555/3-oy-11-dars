@@ -1,0 +1,166 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  padding-top: 50px;
+display: flex;
+  width: 1519px;
+  padding-bottom: 19px;
+  padding-left: 42px;
+  padding-right: 44px;
+  background: rgb(0, 0, 0);
+  gap: 40px;
+
+}
+.header__list{
+display: flex;
+gap: 50px;
+}
+.header__item{
+  text-decoration: none;  
+}
+.header__link{
+  color: rgb(255, 255, 255);
+  font-family: "Arial";
+  text-decoration: none;
+}
+.header__img{
+  margin-right: 100px;
+}
+.header__input{
+  padding-right: 150px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-left: 331px;
+  width: 300px;
+  height: 50px;
+  color: rgb(102, 102, 102);
+font-family: "Inter";
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+}  
+.hero{
+  padding: 30px 0;
+  background-image: url(./images/slider2\ 1.png);
+}
+.hero__textbox{
+  width: 359px;
+}
+.hero__title{
+  color: rgb(255, 255, 255);
+  font-family: "Inter";
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-top: 42px;
+  margin-bottom: 88px;
+  margin-left: 45px;
+}
+.hero__btn{
+  background: rgb(118, 185, 0);
+  color: rgb(0, 0, 0);
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  margin-left: 45px;
+  width: 109px;
+  height: 55px;
+}
+.katalog__h1{
+  color: rgb(0, 0, 0);
+  font-family: "Inter";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  margin-top: 41px;
+  margin-bottom: 40px;  
+  text-align: center;
+}
+.games{
+  display: flex;
+  gap: 60px;
+  margin-bottom: 40px;
+}
+.games__mini{
+  margin-left: 50px;
+}
+.games__h3{
+  color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+margin-left: 54px;
+margin-right: 54px;
+margin-bottom: 37px;
+padding-top: 20px;
+}
+.mini__games{
+  box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+width: 290px;
+text-align: center;
+}
+.games__text{
+  color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+padding-bottom: 20px;
+}
+.invidia{
+  background: rgb(255, 252, 252);
+  margin-left: 43px;
+  margin-right: 37px;
+  padding-left: 12px;
+  padding-top: 29px;
+  padding-bottom: 22px;
+  display: flex;
+}
+.invidia__h1{
+  color: rgb(103, 185, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+margin-left: 40px;
+}
+.invidia__text{
+  color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+margin-left: 41px;
+}
+.invidia__btn{
+  background: rgb(118, 185, 0);
+  color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+margin-left: 39px;
+width: 233px;
+height: 62px;
+margin-top: 58px;
+}
+.footer__invidia{
+  padding-top: 100px;
+  padding-bottom: 80px;
+  margin-left: 44px;
+  padding-left: 25px;
+}
+.footer__text{
+  color: rgb(102, 102, 102);
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 22px;
+  margin-left: 951px;
+}
